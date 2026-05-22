@@ -9,7 +9,8 @@
 
 ## 使用方法
 ## 🐳 Docker 部署（推荐）
-在项目根目录执行：
+
+1. 在项目根目录执行：
 docker build -t yike-photo-downloader .
 2. 运行容器
 docker run -d \
