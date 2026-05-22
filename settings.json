@@ -4,4 +4,12 @@
     "need_thumbnail": 1,
     "need_filter_hidden": 0,
     "Cookie": "Full Cookie"   
+    "aria2": {
+        "rpc_url": "http://127.0.0.1:6800/jsonrpc",
+        "secret": "你的密钥"
+    },
+    "download": {
+    "batch_size": 4,
+    "save_path": "/download"
+  }
 }
